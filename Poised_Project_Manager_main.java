@@ -7,7 +7,7 @@ public class Poised_Project_Manager_main {
         // Asking user to enter the menu options:
         // Using the selection to initiate the following codes:
         // Using main boolean for my menu.
-        // The menu will prompt when a user is done with an option until an exit command ("e") is given.
+        // The menu will prompt when a user is  done with an option until an exit command ("e") is given.
 
         System.out.println("WELCOME TO PROJECT MANAGER\n");
         boolean menu_options = false;
